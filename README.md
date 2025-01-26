@@ -78,10 +78,8 @@ This is a full-stack plagiarism detection web application built using **React (N
    source venv/bin/activate  # For Linux/Mac
    venv\Scripts\activate     # For Windows
    ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+3. Install dependencies.
+   
 4. Start the server:
    ```bash
    uvicorn app.main:app --reload
