@@ -1,5 +1,4 @@
 
-```markdown
 # Plagiarism Detection App Between Documents
 
 ## Overview
